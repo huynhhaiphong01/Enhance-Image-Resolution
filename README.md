@@ -1,2 +1,2 @@
 # Enhance-Image-Resolution
- AI project
+ AI Project
